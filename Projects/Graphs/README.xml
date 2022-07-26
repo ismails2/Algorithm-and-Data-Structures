@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<readme>
+    <!-- *********************************************************************************************************** -->
+
+    <!-- CSE 331 README (Spring 2021) -->
+
+    <!-- Thanks for filling out your README! -->
+    <!-- The purpose of this README is to collect your feedback to ensure we make CSE 331 the best it can be. -->
+    <!-- You'll receive full credit for the README as long as you fill out every field, so answer honestly! -->
+    <!-- Just replace the text REPLACE with your response and leave the <> tags alone.  -->
+    <!-- Include this file in your .zip folder uploaded to Mimir, and you're golden! -->
+
+    <!-- *********************************************************************************************************** -->
+
+    <!-- (1) Please enter your MSU netid (the part of your email before @msu.edu) below. -->
+    <netid>
+        ismails2
+    </netid>
+
+    <!-- (2) Please enter your feedback below. How did you like the Project/CC? -->
+    <!-- What was easy? What was challenging? How could we improve it in the future? -->
+    <feedback>
+        I thought that this project was challenging but not impossible. After looking back at note and source code I
+        was able to better understand how to traverse through the graph. Also being able to do CC10 was very helpful in
+        this project. Also going to office hours was very helpful!
+    </feedback>
+
+    <!-- (3) Please enter how difficult this project was -->
+    <!--  0 means Easy, 10 means Rocket Science  -->
+    <difficulty>
+        6
+    </difficulty>
+
+    <!-- (4) Please enter approximately how long the Project/CC took you in hours (as a floating point).  -->
+    <!-- For example, if it took you 45 minutes, enter 0.75; if it took you 2 and a half hours, enter 2.5. -->
+    <time>
+        5.5
+    </time>
+
+    <!-- (5) Please cite the resources you used to complete the Project/CC. URLs are fine!  -->
+    <citations>
+        Week 9 - Lecture Notes
+        Traversals - GraphSourceCode
+        A* - https://en.wikipedia.org/wiki/A*_search_algorithm
+        A* - https://mat.uab.cat/~alseda/MasterOpt/AStar-Algorithm.pdf
+        Detect_Cycle - CC10
+    </citations>
+
+    <!-- *********************************************************************************************************** -->
+
+    <!-- Configured by Project/CC author. DO NOT EDIT! -->
+    <type>Project</type>    <!-- Enter "Project" or "CC" without quotes -->
+    <number>8</number>      <!-- Enter Project/CC number as integer -->
+
+    <!-- *********************************************************************************************************** -->
+
+</readme>

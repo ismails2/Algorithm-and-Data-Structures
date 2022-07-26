@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<readme>
+    <!-- *********************************************************************************************************** -->
+
+    <!-- CSE 331 README (Spring 2021) -->
+
+    <!-- Thanks for filling out your README! -->
+    <!-- The purpose of this README is to collect your feedback to ensure we make CSE 331 the best it can be. -->
+    <!-- You'll receive full credit for the README as long as you fill out every field, so answer honestly! -->
+    <!-- Just replace the text REPLACE with your response and leave the <> tags alone.  -->
+    <!-- Include this file in your .zip folder uploaded to Mimir, and you're golden! -->
+
+    <!-- *********************************************************************************************************** -->
+
+    <!-- (1) Please enter your MSU netid (the part of your email before @msu.edu) below. -->
+    <netid>
+        ismails2
+    </netid>
+
+    <!-- (2) Please enter your feedback below. How did you like the Project/CC? -->
+    <!-- What was easy? What was challenging? How could we improve it in the future? -->
+    <feedback>
+        This project was a little difficult but after reviewing lectures and slides I was able to figure out
+        the functions.  I also really liked the application part of this assignment I thought it was a cool
+        introduction on how data can be stored and used to predict outcomes.
+    </feedback>
+
+    <!-- (3) Please enter approximately how long the Project/CC took you in hours (as a floating point).  -->
+    <!-- For example, if it took you 45 minutes, enter 0.75; if it took you 2 and a half hours, enter 2.5. -->
+    <time>
+        4.5
+    </time>
+
+    <!-- (4) Please cite the resources you used to complete the Project/CC. URLs are fine!  -->
+    <citations>
+        Week 6 Class Slides (Traversals/ AVL Trees)
+
+        Rebalance: Piazza Post @1103
+
+        Traversals: https://www.journaldev.com/35001/binary-tree-traversal-preorder-inorder-postorder#:
+        ~:text=%20Binary%20Tree%20Traversal%20(PreOrder,%20InOrder,%20PostOrder)%20,a%20PostOrder%20traversal,
+        %20the%20nodes%20are...%20More (also looking at Course Slides)
+    </citations>
+
+    <!-- *********************************************************************************************************** -->
+
+    <!-- Configured by Project/CC author. DO NOT EDIT! -->
+    <type>Project</type>    <!-- Enter "Project" or "CC" without quotes -->
+    <number>5</number>      <!-- Enter Project/CC number as integer -->
+
+    <!-- *********************************************************************************************************** -->
+
+</readme>
